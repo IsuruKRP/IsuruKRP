@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning on **SLIIT**
 
-- 🌱 I’m currently learning **Net | Angular **
+- 🌱 I’m currently learning **.Net | Angular**
 
 - 📝 I regularly write articles on [medium](medium)
 
