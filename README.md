@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru kulatunga</h1>
-<h3 align="center">ndergraduate | BSc (Hons) IT Specialization.</h3>
+<h3 align="center">Undergraduate | BSc (Hons) IT Specialization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurukrp&label=Profile%20views&color=0e75b6&style=flat" alt="isurukrp" /> </p>
 
